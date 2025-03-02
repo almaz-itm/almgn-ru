@@ -16,16 +16,16 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 300px;
   margin: 0 auto;
   padding: 0 15px;
 }
 
-.foto-title {
+.photo-title {
+  margin-bottom: 65px;
+  font-size: 30px;
+  font-weight: 700;
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-size: 20px;
 }
 
 .foto-column {
@@ -42,6 +42,11 @@ body {
 
 .item {
   padding-top: 10px;
-  
+}
 
+.footer {
+  padding: 30px 0;
+  background-color: #1e1e1e;
+
+  color: #5d5d5d;
 }
